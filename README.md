@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Khalid Alqawsi  
 
-<!--
-**khalidalqawsi/khalidalqawsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student at Albukhary International University, Malaysia  
+🌍 Aspiring to continue studies in Europe  
+📚 Interested in **Artificial Intelligence, Cybersecurity, and Software Development**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- **Languages**: C++, Python, Java  
+- **Other Tools**: Git, GitHub, Linux, Cisco Packet Tracer  
+
+---
+
+## 📌 Featured Projects  
+- [BankSystem](https://github.com/khalidalqawsi/BankSystem) – A simple banking system built in C++  
+ 
+
+---
+
+## 🌱 Currently Learning  
+- Data Structures & Algorithms  
+- Databases  
+- C#  
+- German 🇩🇪  
+
+---
+
+## 📊 GitHub Stats  
+![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidalqawsi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidalqawsi&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/khalidalqawsi)  
+- [Email](mailto:your-email@example.com)  
